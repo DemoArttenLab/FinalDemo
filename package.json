@@ -1,7 +1,10 @@
 {
   "dependencies": {
     "bcryptjs": "^3.0.2",
-    "next": "^12.3.4"
+    "next": "^12.3.4",
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start"
   },
   "devDependencies": {
     "@types/bcryptjs": "^2.4.6"
